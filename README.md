@@ -1,4 +1,4 @@
-![API Image](images/api.jpg)
+![API Image](Starter_Code/images/api.jpg)
 # Financial Simulations and APIs
 
 >"Using APIs we can get up to date data from various sources. Here we will use the Alpaca SDK and the Free Crypto API to get data."
